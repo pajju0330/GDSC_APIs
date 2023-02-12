@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "title": "Parasite",
+      "desc": "A poor family schemes to become employed by a wealthy household.",
+      "genre": "Thriller, Drama, Black Comedy",
+      "like": 0
+    },
+    {
+      "id": 2,
+      "title": "1917",
+      "desc": "Two soldiers go on a dangerous mission during World War I.",
+      "genre": "War, Drama",
+      "like": 0
+    },
+    {
+      "id": 3,
+      "title": "Joker",
+      "desc": "A failed comedian transforms into a violent criminal.",
+      "genre": "Psychological Thriller, Crime Drama",
+      "like": 0
+    },
+    {
+      "id": 4,
+      "title": "Once Upon a Time... in Hollywood",
+      "desc": "A fading TV actor and his stunt double navigate the changing film industry in 1969 Los Angeles.",
+      "genre": "Comedy, Drama",
+      "like": 0
+    },
+    {
+      "id": 5,
+      "title": "The Irishman",
+      "desc": "An aging hitman recounts his time working for the mob.",
+      "genre": "Crime, Drama",
+      "like": 0
+    },
+    {
+      "id": 6,
+      "title": "Ford v Ferrari",
+      "desc": "Race-car designer and driver attempt to build a car to beat Ferrari at the 24 Hours of Le Mans.",
+      "genre": "Action, Drama, Biographical",
+      "like": 0
+    },
+    {
+      "id": 7,
+      "title": "Avengers: Endgame",
+      "desc": "The Avengers must stop Thanos from using the Infinity Stones to destroy the universe.",
+      "genre": "Action, Adventure, Fantasy",
+      "like": 0
+    },
+    {
+      "id": 8,
+      "title": "Marriage Story",
+      "desc": "A couple goes through a grueling divorce while trying to maintain a relationship for the sake of their son.",
+      "genre": "Drama, Romance",
+      "like": 0
+    },
+    {
+      "id": 9,
+      "title": "Knives Out",
+      "desc": "A detective investigates the death of a wealthy patriarch.",
+      "genre": "Mystery, Comedy, Crime",
+      "like": 0
+    },
+    {
+      "id": 10,
+      "title": "Little Women",
+      "desc": "The March sisters navigate love and loss while coming of age in the late 1800s.",
+      "genre": "Drama, Romance, Historical",
+      "like": 0
+    }
+  ]
